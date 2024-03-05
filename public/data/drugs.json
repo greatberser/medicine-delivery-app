@@ -1,0 +1,16 @@
+[
+    {"id": "2464363221", "name": "Paracetamol", "shopId": "drugs24", "price": "9.99", "amount": "1"},
+    {"id": "2464363223", "name": "Paracetamol", "shopId": "healthHaven", "price": "4.99", "amount": "1"},
+    {"id": "2464363225", "name": "Paracetamol", "shopId": "drugs24", "price": "1.99", "amount": "1"},
+    {"id": "2464363222", "name": "Paracetamol", "shopId": "pharmacy", "price": "2.5", "amount": "1"},
+    {"id": "2464363245", "name": "Paracetamol", "shopId": "drugs24", "price": "2.35", "amount": "1"},
+    {"id": "2464363226", "name": "Paracetamol", "shopId": "pharmacy", "price": "1.99", "amount": "1"},
+    {"id": "2464365226", "name": "Paracetamol", "shopId": "wellnessWave", "price": "0.99", "amount": "1"},
+    {"id": "2464163226", "name": "Paracetamol", "shopId": "healthHaven", "price": "3.99", "amount": "1"},
+    {"id": "2464243245", "name": "Paracetamol", "shopId": "drugs24", "price": "19.99", "amount": "1"},
+    {"id": "2264363245", "name": "Paracetamol", "shopId": "drugs24", "price": "5.99", "amount": "1"},
+    {"id": "1464363226", "name": "Paracetamol", "shopId": "pharmacy", "price": "5", "amount": "1"}
+
+
+
+]

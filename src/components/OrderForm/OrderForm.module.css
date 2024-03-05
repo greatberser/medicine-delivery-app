@@ -1,0 +1,40 @@
+.orderForm{
+    display: flex;
+    flex-direction: column;
+    width: 680px;
+    height: 450px;
+    gap: 40px;
+
+    border-radius: 10px;
+    border: 1px solid #000;
+    padding: 40px 20px;
+}
+
+.orderLabel{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.orderInput{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #000;
+}
+
+.btnSubmit{
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 500;
+
+    background-color: rgb(196, 195, 195);
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 5px;
+    transition: background-color 340ms cubic-bezier(0.39, 0.46, 0.02, 0.86);
+}
+
+.btnSubmit:hover,
+.btnSubmit:focus{
+    background-color: rgb(133, 133, 133);
+}

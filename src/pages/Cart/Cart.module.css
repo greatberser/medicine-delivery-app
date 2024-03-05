@@ -1,0 +1,30 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.cartList{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 680px;
+    max-height: 532px;
+    overflow-y: auto;
+}
+
+.wrapperPrice{
+    padding-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.priceText{
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.priceNumber{
+    font-weight: 400;
+}

@@ -1,0 +1,29 @@
+.header{
+    padding: 25px 50px;
+    box-shadow: 0 2px 5px rgba(46,47,66,.08), 0 1px 1px rgba(46,47,66,.16), 0 1px 6px rgba(46,47,66,.08);
+}
+
+.navMenu{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.navLink{
+    color: #000;
+    transition: border-bottom 340ms cubic-bezier(0.39, 0.46, 0.02, 0.86);
+}
+
+.verticalLine {
+    border-left: 2px solid #000;
+    height: 20px; 
+}
+
+.navLink:hover,
+.navLink:focus{
+    border-bottom: 1px solid #000;
+}
+
+.activeNavLink{
+    border-bottom: 1px solid #000;
+}

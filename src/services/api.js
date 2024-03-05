@@ -2,7 +2,7 @@ import axios from "axios";
 
 export const getShops = async () => {
     try {
-        const response = await axios.get('/public/data/shops.json');
+        const response = await axios.get('/data/shops.json');
         return response.data;
     } catch (error) {
         throw error;
